@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "NF5R33H474.com.sharecode.ShareCodeApp"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL with a path that starts with /*."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "NF5R33H474.com.sharecode.ShareCodeApp"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "NF5R33H474.com.sharecode.ShareCodeApp.Clip"
+    ]
+  }
+}
